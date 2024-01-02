@@ -1,0 +1,11 @@
+path: /Users/macbookair/Documents/Backup - PAAI/website
+train: /Users/macbookair/Documents/Backup - PAAI/website/data/images/train
+val: /Users/macbookair/Documents/Backup - PAAI/website/data/images/valid
+
+#Classes
+names:
+  0 : plat-hitam-motor
+  1 : plat-putih-motor
+  2 : plat-hitam-mobil
+  3 : plat-putih-mobil
+  4 : plat-istimewa
