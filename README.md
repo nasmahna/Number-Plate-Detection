@@ -9,7 +9,8 @@ This project involves creating a web-based application to detect license plates 
 - **Web-Based Interface**: The application is accessible via a simple, user-friendly interface built with Streamlit.
 
 ### **Tools & Technologies**
-- **YOLOv9**: Utilized for the detection model, providing high accuracy in real-time detection.
+- **YOLOv8**: Utilized for the detection model, providing high accuracy in real-time detection.
+- **OCR**: Integrated for recognizing and extracting text from detected license plates (bounding box).
 - **Streamlit**: Framework used to create the web interface for the application.
 - **Canon EOS M10**: Used to capture the dataset for training the model.
 
