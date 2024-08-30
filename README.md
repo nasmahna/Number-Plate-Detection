@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/410c8e16-7af2-4f63-8412-4977fbd3bb73)
+
 ## **Number-Plate-Detection**
 
 ### **Overview**
@@ -28,3 +30,7 @@ The dataset used in this project was captured on the roads of Indonesia using a 
 ## **Future Improvements**
 Enhance the model's accuracy with a larger and more diverse dataset.
 Implement support for video input for real-time license plate detection.
+
+
+See futher information about this, contains manual books and results:
+https://drive.google.com/drive/folders/1BbG3hGtaTftPuL2JxH6-W9cCKDHv-rqV?usp=sharing
