@@ -32,5 +32,5 @@ Enhance the model's accuracy with a larger and more diverse dataset.
 Implement support for video input for real-time license plate detection.
 
 
-See futher information about this, contains manual books and results:
+See futher information about this, contains manual book and results:
 https://drive.google.com/drive/folders/1BbG3hGtaTftPuL2JxH6-W9cCKDHv-rqV?usp=sharing
